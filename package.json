@@ -1,0 +1,26 @@
+{
+  "name": "bf-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapzu/bf-cli.git"
+  },
+  "keywords": [
+    "brainfuck"
+  ],
+  "author": "Aapzu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aapzu/bf-cli/issues"
+  },
+  "homepage": "https://github.com/aapzu/bf-cli#readme",
+  "dependencies": {
+    "braincrunch": "^1.1.0",
+    "fs": "0.0.1-security"
+  }
+}
