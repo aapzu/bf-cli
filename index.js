@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const braincrunch = require('braincrunch')
 const fs = require('fs')
 
