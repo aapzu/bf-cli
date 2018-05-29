@@ -11,8 +11,12 @@
     "url": "git+https://github.com/aapzu/bf-cli.git"
   },
   "keywords": [
-    "brainfuck"
+    "brainfuck",
+    "cli"
   ],
+  "bin": {
+    "bf-cli": "index.js"
+  },
   "author": "Aapzu",
   "license": "MIT",
   "bugs": {
