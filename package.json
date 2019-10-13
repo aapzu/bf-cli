@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/aapzu/bf-cli#readme",
   "dependencies": {
-    "braincrunch": "^1.1.0",
+    "braincrunch": "^1.2.1",
     "fs": "0.0.1-security"
   },
   "devDependencies": {
